@@ -1,5 +1,5 @@
 
-## Welcome to GitHub Pages
+## Welcome to Solar system
 
 You can use the [editor on GitHub](https://github.com/nureena/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
